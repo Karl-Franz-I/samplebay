@@ -1,0 +1,10 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 1.000
+DIR: maps maps\titan maps\utopia 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+WINDOW: maps\utopia\utopia_define.dm;maps\titan\titan_define.dm;maps\utopia\utopia.dm
+FILE: maps\utopia\utopia_define.dm
+*/
+// END_INTERNALS
